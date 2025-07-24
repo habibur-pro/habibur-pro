@@ -65,4 +65,6 @@ I’m always learning new things and like to take on new challenges to improve m
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibur-pro&layout=compact&theme=onedark)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=habibur-pro&show_icons=true&count_private=true&theme=onedark)  
 ![GitHub metrics](https://metrics.lecoq.io/habibur-pro)
+![Profile Views](https://komarev.com/ghpvc/?username=habibur-pro&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/habibur-pro?label=Followers&style=social)
 
