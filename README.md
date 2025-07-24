@@ -1,6 +1,8 @@
+![Full stack developer || MERN stack developer || React developer](https://media.licdn.com/dms/image/v2/D4E16AQGbQ2QlkgVTMQ/profile-displaybackgroundimage-shrink_350_1400/B4EZaewdLDH4AY-/0/1746420226673?e=1756339200&v=beta&t=5BWWrMCok17BNJOkIns5yBpPS6bVn0V80LojaX_snog)
+
 ### Hi there 👋, I'am Habibur Rahman
 #### Full stack developer || MERN stack developer || React developer
-![Full stack developer || MERN stack developer || React developer](https://media.licdn.com/dms/image/v2/D4E16AQGbQ2QlkgVTMQ/profile-displaybackgroundimage-shrink_350_1400/B4EZaewdLDH4AY-/0/1746420226673?e=1756339200&v=beta&t=5BWWrMCok17BNJOkIns5yBpPS6bVn0V80LojaX_snog)
+
 
  I'm a Full Stack Web Developer with over 2 years of experience. I work mainly with the MERN Stack — MongoDB, Express, React, and Node.js.
 
